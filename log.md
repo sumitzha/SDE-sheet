@@ -20,6 +20,6 @@
 
 9. [Best Time to Buy and sell stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
-## Medium 
+10. [Reverse Array](https://www.codingninjas.com/studio/problems/reverse-the-array_1262298)
 
-## Hard 
+11. [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/)
